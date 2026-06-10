@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "AmaniVideoSDK"
-  s.version      = "2.0.6"
+  s.version      = "2.1.0"
   s.summary      = "AmaniVideoSDK"
   s.description  = "The Amani Software Development kit (SDK) provides you complete steps to perform video call ."
   s.homepage     = "https://documentation.amani.ai/documents/ios-video/"
